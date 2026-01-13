@@ -1,7 +1,7 @@
 baseURL = "https://dawsonfairbanks.com/"
 languageCode = "en-us"
 title = "Dawson Fairbanks"
-theme = "researcher"
+theme = "simple"
 
 [params]
   author = "Dawson Fairbanks"
