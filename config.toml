@@ -20,11 +20,11 @@ theme = "simple"
 
 [menu]
   [[menu.main]]
-    name = "About"
+    name = "Home"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Research"
+    name = "Experience"
     url = "/research"
     weight = 2
   [[menu.main]]
@@ -32,6 +32,6 @@ theme = "simple"
     url = "/publications"
     weight = 3
   [[menu.main]]
-    name = "CV"
-    url = "/cv.pdf"
+    name = "Contact"
+    url = "/#lets-connect"
     weight = 4

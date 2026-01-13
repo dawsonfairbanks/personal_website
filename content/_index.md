@@ -6,29 +6,35 @@ title: "Home"
 
 ![Profile Photo](/avatar.jpg)
 
-**Postdoctoral Researcher**  
-The University of Arizona  
-Tucson, Arizona
+**Biogeochemist | Data Scientist | Scientific Consultant**  
+Transforming complex environmental data into actionable insights
 
-## About Me
+## What I Do
 
-Interdisciplinary research scientist, data scientist, biogeochemist, and microbial ecologist specializing in metagenomics and bioinformatics.
+I help organizations and teams leverage cutting-edge bioinformatics and data science to solve critical challenges in environmental science, soil health, and microbial ecology.
 
-- Creative problem solver who loves to work across multiple domains
-- Currently working in the field of metagenomics and bioinformatics synthesizing BIG data  
-- Handled challenging tasks in bioinformatics, soil science, and field logistics
-- Passionate and collaborative, I aim to derive insight and solve problems using combined and cutting-edge techniques
+With expertise spanning metagenomics, biogeochemistry, and large-scale data analysis, I translate complex scientific findings into practical solutions that drive decision-making and innovation.
 
-## Research Interests
+## Areas of Expertise
 
-- Biogeochemistry
-- Microbial Ecology
-- Metagenomics
-- Bioinformatics
-- Soil Science
-- Data Science
+- **Metagenomics & Bioinformatics** - Advanced microbial community analysis and genome-scale insights
+- **Environmental Data Science** - Transforming big data into actionable environmental intelligence  
+- **Soil Biogeochemistry** - Understanding soil-microbe interactions and ecosystem function
+- **Scientific Consulting** - Strategic guidance for research teams and environmental projects
+- **Data Visualization & Communication** - Making complex science accessible and impactful
 
-## Education
+## Services & Offerings
+
+### Consulting
+Expert guidance on bioinformatics workflows, environmental data analysis, and research strategy
+
+### Training & Workshops  
+Custom training programs in metagenomics, data science, and bioinformatics for research teams
+
+### Digital Products
+Online courses and resources helping scientists master modern data analysis techniques *(Coming Soon)*
+
+## Credentials
 
 **PhD in Environmental Science**  
 Minor in Natural Resource Management
@@ -36,7 +42,11 @@ Minor in Natural Resource Management
 **B.S. in Biology**  
 Minor in Chemistry
 
-## Contact
+**Current Position:** Postdoctoral Researcher, University of Arizona
+
+## Let's Connect
+
+Ready to tackle complex environmental challenges with cutting-edge science and data?
 
 Email: [your.email@arizona.edu](mailto:your.email@arizona.edu)  
 GitHub: [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)
