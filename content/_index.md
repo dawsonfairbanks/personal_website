@@ -9,14 +9,14 @@ title: "Home"
   <p class="profile-title">Bioinformatician<br>Funga PBC</p>
 </div>
 
-**Biogeochemist | Full-Stack Data Scientist | Scientific Consultant**  
-Transforming complex environmental data into actionable insights
+**Biogeochemist | Full-Stack Data Scientist | Scientific Consultant | Computational Biologist**  
+Building AI-driven insights at the intersection of microbial genomics, ecosystem health, and climate solutions.
 
 ## What I Do
 
-I help organizations and teams leverage cutting-edge bioinformatics and data science to solve critical challenges in environmental science, soil health, and microbial ecology.
+I’m a generalist by curiosity and a specialist by training, working at the intersection of environmental science, biology, and data.
 
-With expertise spanning metagenomics, biogeochemistry, and large-scale data analysis, I translate complex scientific findings into practical solutions that drive decision-making and innovation.
+My background spans metagenomics, soil biogeochemistry, and large-scale environmental data analysis, with a focus on using machine learning and cloud-native tools to better understand ecosystems and support climate and restoration efforts. I help startups and research-driven organizations translate complex science into scalable, reproducible systems, turning data and models into tools that support real-world decision-making in biotechnology, soil health, microbial ecology, and environmental science.
 
 ## Areas of Expertise
 
