@@ -14,9 +14,14 @@ Building AI-driven insights at the intersection of microbial genomics, ecosystem
 
 ## What I Do
 
-I’m a generalist by curiosity and a specialist by training, working at the intersection of environmental science, biology, and data.
+I help **startups and research-driven organizations** translate complex environmental science into scalable, reproducible systems. Whether you're working on climate solutions, soil health, microbial ecology, or biotechnology, I bring deep domain expertise combined with full-stack data science capabilities to turn scientific questions into actionable insights.
 
-My background spans metagenomics, soil biogeochemistry, and large-scale environmental data analysis, with a focus on using machine learning and cloud-native tools to better understand ecosystems and support climate and restoration efforts. I help startups and research-driven organizations translate complex science into scalable, reproducible systems, turning data and models into tools that support real-world decision-making in biotechnology, soil health, microbial ecology, and environmental science.
+### I Work With
+
+✓ **Climate tech startups** building carbon dioxide removal solutions  
+✓ **Biotech companies** leveraging microbial data for product development  
+✓ **Research teams** needing bioinformatics infrastructure and training  
+✓ **Environmental organizations** using data to drive restoration and conservation
 
 ## Areas of Expertise
 
@@ -36,21 +41,24 @@ Expert guidance on bioinformatics workflows, environmental data analysis, resear
 ### Training & Workshops  
 Custom training programs in metagenomics, data science, and bioinformatics for research teams and early career researchers
 
+---
+
+## Ready to Work Together?
+
+Whether you need **strategic consulting**, **bioinformatics infrastructure**, or **hands-on data science support**, let's discuss how I can help advance your environmental science and climate goals.
+
+<div style="text-align: center; margin: 40px 0;">
+  <a href="mailto:dawson.fairbanks@gmail.com" style="display: inline-block; background: #3498db; color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">Get In Touch</a>
+</div>
+
+**Email:** [dawson.fairbanks@gmail.com](mailto:dawson.fairbanks@gmail.com)  
+**GitHub:** [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)  
+**Google Scholar:** [View Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao)
+
+---
+
 ## Credentials
 
-<i class="fa-solid fa-graduation-cap"></i> **PhD in Environmental Science**  
-University of Arizona  
-Minor in Natural Resource Management
-
-<i class="fa-solid fa-graduation-cap"></i> **B.S. in Biology**  
-Northern Arizona University  
-Minor in Chemistry
-
+<i class="fa-solid fa-graduation-cap"></i> **PhD in Environmental Science** — University of Arizona  
+<i class="fa-solid fa-graduation-cap"></i> **B.S. in Biology** — Northern Arizona University  
 **Current Position:** Bioinformatician, Funga PBC
-
-## Let's Connect
-
-Ready to tackle complex environmental challenges with cutting-edge science and data?
-
-Email: [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanksl@gmail.com)  
-GitHub: [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)
