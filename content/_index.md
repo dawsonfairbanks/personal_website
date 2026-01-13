@@ -10,11 +10,21 @@ title: "Home"
 </div>
 
 **Environmental Data Scientist | Scientific Consultant | Computational Biologist | Earth System Scientist**  
-AI-driven insights at the intersection of microbial genomics, ecosystem health, and climate solutions.
+I design and lead scalable, reproducible data systems for genomics and computational biology
+
+## Credentials
+
+<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **PhD in Environmental Science**  
+University of Arizona  
+Minor in Natural Resource Management
+
+<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **B.S. in Biology**  
+Northern Arizona University  
+Minor in Chemistry
 
 ## What I Do
 
-I help **startups and research-driven organizations** translate complex environmental science into scalable, reproducible systems. Whether you're working on climate solutions, soil health, microbial ecology, or biotechnology, I bring deep domain expertise combined with full-stack data science capabilities to turn scientific questions into actionable insights.
+I work at the intersection of computational biology, genomics, earth system science and data systems, focusing on how complex scientific work scales within organizations. I design and guide reproducible workflows, data models, and analytical systems for interdisciplinary teams, bringing domain expertise and systems thinking to biological and environmental data.
 
 ### I Work With
 
@@ -57,13 +67,3 @@ Whether you need **strategic consulting**, **cloud native infrastructure**, **bi
 💼 **LinkedIn:** [linkedin.com/in/dawsonfairbanks](https://www.linkedin.com/in/dawsonfairbanks)
 
 ---
-
-## Credentials
-
-<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **PhD in Environmental Science**  
-University of Arizona  
-Minor in Natural Resource Management
-
-<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **B.S. in Biology**  
-Northern Arizona University  
-Minor in Chemistry
