@@ -2,8 +2,6 @@
 title: "Experience"
 ---
 
-# Experience & Work
-
 I work at the intersection of **microbial ecology, environmental data science, and climate solutions**, building scalable, reproducible systems that connect biological data to ecosystem and carbon outcomes.
 
 ## Current Focus
