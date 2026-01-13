@@ -28,6 +28,14 @@ Interdisciplinary research scientist, data scientist, biogeochemist, and microbi
 - Soil Science
 - Data Science
 
+## Education
+
+**PhD in Environmental Science**  
+Minor in Natural Resource Management
+
+**B.S. in Biology**  
+Minor in Chemistry
+
 ## Contact
 
 Email: [your.email@arizona.edu](mailto:your.email@arizona.edu)  
