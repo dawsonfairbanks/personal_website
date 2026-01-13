@@ -9,7 +9,7 @@ title: "Home"
   <p class="profile-title">Current: Bioinformatician at Funga PBC</p>
 </div>
 
-**Environmental Data Scientist | Scientific Consultant | Computational Biologist | Earth System Scientist**  
+**Environmental Data Scientist | Scientific Consultant | Earth System Scientist**  
 I design and lead scalable, reproducible data systems for genomics and computational biology
 
 ## Credentials
