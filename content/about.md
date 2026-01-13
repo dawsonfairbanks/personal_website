@@ -7,6 +7,12 @@ title: "About"
   <p class="profile-title">Bioinformatician<br>Funga PBC</p>
 </div>
 
+
+
+I'm a generalist by curiosity and a specialist by training, working at the intersection of environmental science, biology, and data.
+
+My background spans metagenomics, soil biogeochemistry, and large-scale environmental data analysis, with a focus on using machine learning and cloud-native tools to better understand ecosystems and support climate and restoration efforts. I help startups and research-driven organizations translate complex science into scalable, reproducible systems, turning data and models into tools that support real-world decision-making in biotechnology, soil health, microbial ecology, and environmental science.
+
 ## Education & Training
 
 <i class="fa-solid fa-graduation-cap" style="color: black;"></i> **PhD in Environmental Science**  
@@ -16,12 +22,6 @@ Minor in Natural Resource Management
 <i class="fa-solid fa-graduation-cap" style="color: black;"></i> **B.S. in Biology**  
 Northern Arizona University  
 Minor in Chemistry
-
----
-
-I'm a generalist by curiosity and a specialist by training, working at the intersection of environmental science, biology, and data.
-
-My background spans metagenomics, soil biogeochemistry, and large-scale environmental data analysis, with a focus on using machine learning and cloud-native tools to better understand ecosystems and support climate and restoration efforts. I help startups and research-driven organizations translate complex science into scalable, reproducible systems, turning data and models into tools that support real-world decision-making in biotechnology, soil health, microbial ecology, and environmental science.
 
 ## My Approach
 
