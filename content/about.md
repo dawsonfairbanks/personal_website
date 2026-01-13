@@ -7,8 +7,6 @@ title: "About"
   <p class="profile-title">Bioinformatician<br>Funga PBC</p>
 </div>
 
-# About Dawson Fairbanks
-
 I'm a generalist by curiosity and a specialist by training, working at the intersection of environmental science, biology, and data.
 
 My background spans metagenomics, soil biogeochemistry, and large-scale environmental data analysis, with a focus on using machine learning and cloud-native tools to better understand ecosystems and support climate and restoration efforts. I help startups and research-driven organizations translate complex science into scalable, reproducible systems, turning data and models into tools that support real-world decision-making in biotechnology, soil health, microbial ecology, and environmental science.
@@ -19,7 +17,7 @@ I believe the best science happens at interfaces—where disciplines collide and
 
 - **Deep domain expertise** in microbial ecology and biogeochemistry
 - **Technical fluency** across bioinformatics, data science, and cloud infrastructure
-- **Strategic thinking** about how to translate research into impact
+- **Strategic thinking** about how to translate research into impact, using tech-based tooling
 - **Collaborative mindset** that bridges academic rigor and business pragmatism
 
 ## Education & Training
@@ -49,6 +47,10 @@ Leading biodiversity modeling and data infrastructure for forest restoration pro
 ## Beyond the Lab
 
 When I'm not wrangling genomes or building pipelines, you'll find me thinking about how to make science more accessible, reproducible, and impactful. I'm passionate about mentoring early-career scientists and building tools that help others do better science.
+
+Outside of work, I’m a curious wanderer and lifelong adventurer. Born and raised in Alaska, I grew up close to wild landscapes that shaped my appreciation for nature, exploration, and systems thinking—perspectives that continue to influence how I approach science today.
+
+<img src="/dawson_morocco2025.jpg" alt="Dawson in Morocco" style="max-width: 600px; border-radius: 8px; margin: 20px 0;"> 
 
 ---
 
