@@ -39,7 +39,7 @@ I help **startups and research-driven organizations** translate complex environm
 Expert guidance on bioinformatics workflows, environmental data analysis, research strategy, and designing cloud-native, reproducible data systems.
 
 ### Training & Workshops  
-Custom training programs in metagenomics, data science, and bioinformatics for research teams and early career researchers
+Custom training programs in data science, cloud computing, and bioinformatics for research teams and early career researchers
 
 ---
 
@@ -48,17 +48,22 @@ Custom training programs in metagenomics, data science, and bioinformatics for r
 Whether you need **strategic consulting**, **bioinformatics infrastructure**, or **hands-on data science support**, let's discuss how I can help advance your environmental science and climate goals.
 
 <div style="text-align: center; margin: 40px 0;">
-  <a href="mailto:dawson.fairbanks@gmail.com" style="display: inline-block; background: #3498db; color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">Get In Touch</a>
+  <a href="mailto:dawson.fairbanks@gmail.com" style="display: inline-block; background:rgb(43, 49, 53); color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">Get In Touch</a>
 </div>
 
-**Email:** [dawson.fairbanks@gmail.com](mailto:dawson.fairbanks@gmail.com)  
-**GitHub:** [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)  
-**Google Scholar:** [View Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao)
+📧 **Email:** [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanks@gmail.com)  
+💻 **GitHub:** [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)  
+📚 **Google Scholar:** [View Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao)  
+💼 **LinkedIn:** [linkedin.com/in/dawsonfairbanks](https://www.linkedin.com/in/dawsonfairbanks)
 
 ---
 
 ## Credentials
 
-<i class="fa-solid fa-graduation-cap"></i> **PhD in Environmental Science** — University of Arizona  
-<i class="fa-solid fa-graduation-cap"></i> **B.S. in Biology** — Northern Arizona University  
-**Current Position:** Bioinformatician, Funga PBC
+<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **PhD in Environmental Science**  
+University of Arizona  
+Minor in Natural Resource Management
+
+<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **B.S. in Biology**  
+Northern Arizona University  
+Minor in Chemistry

@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-# Publications
-
 For a complete and up-to-date list of publications and citations, please see my
 [Google Scholar profile](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao).
 
