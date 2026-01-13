@@ -7,28 +7,30 @@ title: "About"
   <p class="profile-title">Bioinformatician<br>Funga PBC</p>
 </div>
 
+## Education & Training
+
+<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **PhD in Environmental Science**  
+University of Arizona  
+Minor in Natural Resource Management
+
+<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **B.S. in Biology**  
+Northern Arizona University  
+Minor in Chemistry
+
+---
+
 I'm a generalist by curiosity and a specialist by training, working at the intersection of environmental science, biology, and data.
 
 My background spans metagenomics, soil biogeochemistry, and large-scale environmental data analysis, with a focus on using machine learning and cloud-native tools to better understand ecosystems and support climate and restoration efforts. I help startups and research-driven organizations translate complex science into scalable, reproducible systems, turning data and models into tools that support real-world decision-making in biotechnology, soil health, microbial ecology, and environmental science.
 
 ## My Approach
 
-I believe the best science happens at interfaces—where disciplines collide and new questions emerge. My work combines:
+I believe the best science happens at interfaces, where disciplines collide and new questions emerge. My work combines:
 
 - **Deep domain expertise** in microbial ecology and biogeochemistry
 - **Technical fluency** across bioinformatics, data science, and cloud infrastructure
 - **Strategic thinking** about how to translate research into impact, using tech-based tooling
 - **Collaborative mindset** that bridges academic rigor and business pragmatism
-
-## Education & Training
-
-<i class="fa-solid fa-graduation-cap"></i> **PhD in Environmental Science**  
-University of Arizona  
-Minor in Natural Resource Management
-
-<i class="fa-solid fa-graduation-cap"></i> **B.S. in Biology**  
-Northern Arizona University  
-Minor in Chemistry
 
 ## Current Position
 
@@ -58,5 +60,5 @@ Outside of work, I’m a curious wanderer and lifelong adventurer. Born and rais
 
 If you're looking for strategic guidance on environmental genomics, data science infrastructure, or climate-focused research, I'm always open to thoughtful collaborations and consulting engagements.
 
-**Email:** [dawson@example.com](mailto:dawson@example.com)  
+**Email:** [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanks@gmail.com.com)  
 **GitHub:** [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)
