@@ -6,7 +6,7 @@ title: "Home"
 
 <div class="profile-section">
   <img src="/avatar.jpg" alt="Dawson Fairbanks">
-  <p class="profile-title">Bioinformatician<br>Funga PBC</p>
+  <p class="profile-title">Current: Bioinformatician at Funga PBC</p>
 </div>
 
 **Environmental Data Scientist | Scientific Consultant | Computational Biologist | Earth System Scientist**  
@@ -45,7 +45,7 @@ Custom training programs in data science, cloud computing, and bioinformatics fo
 
 ## Ready to Work Together?
 
-Whether you need **strategic consulting**, **bioinformatics infrastructure**, or **hands-on data science support**, let's discuss how I can help advance your environmental science and climate goals.
+Whether you need **strategic consulting**, **cloud native infrastructure**, **bioinformatics support** or **hands-on data science support**, let's discuss how I can help advance your environmental science and climate goals.
 
 <div style="text-align: center; margin: 40px 0;">
   <a href="mailto:dawson.fairbanks@gmail.com" style="display: inline-block; background:rgb(43, 49, 53); color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">Get In Touch</a>
