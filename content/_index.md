@@ -36,10 +36,12 @@ Online courses and resources helping scientists master modern data analysis tech
 
 ## Credentials
 
-**PhD in Environmental Science**  
+<i class="fas fa-graduation-cap"></i> **PhD in Environmental Science**  
+University of Arizona  
 Minor in Natural Resource Management
 
-**B.S. in Biology**  
+<i class="fas fa-user-graduate"></i> **B.S. in Biology**  
+Northern Arizona University  
 Minor in Chemistry
 
 **Current Position:** Bioinformatician, Funga PBC

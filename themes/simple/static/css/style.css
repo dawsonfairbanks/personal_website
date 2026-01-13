@@ -97,6 +97,12 @@ a:hover {
     text-decoration: underline;
 }
 
+.fa-graduation-cap,
+.fa-user-graduate {
+    color: #3498db;
+    margin-right: 8px;
+}
+
 footer {
     margin-top: 60px;
     padding-top: 20px;
