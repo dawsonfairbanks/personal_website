@@ -1,0 +1,37 @@
+baseURL = "https://dawsonfairbanks.com/"
+languageCode = "en-us"
+title = "Dawson Fairbanks"
+theme = "researcher"
+
+[params]
+  author = "Dawson Fairbanks"
+  description = "Postdoctoral Researcher | Biogeochemist | Microbial Ecologist"
+  favicon = "favicon.ico"
+
+  [[params.social]]
+    name = "GitHub"
+    icon = "fab fa-github"
+    url = "https://github.com/dawsonfairbanks"
+
+  [[params.social]]
+    name = "Email"
+    icon = "fas fa-envelope"
+    url = "mailto:dawson@example.com"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "/research"
+    weight = 2
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications"
+    weight = 3
+  [[menu.main]]
+    name = "CV"
+    url = "/cv.pdf"
+    weight = 4
