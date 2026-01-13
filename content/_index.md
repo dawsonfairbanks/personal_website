@@ -9,7 +9,7 @@ title: "Home"
   <p class="profile-title">Bioinformatician<br>Funga PBC</p>
 </div>
 
-**Biogeochemist | Data Scientist | Scientific Consultant**  
+**Biogeochemist | Full-Stack Data Scientist | Scientific Consultant**  
 Transforming complex environmental data into actionable insights
 
 ## What I Do
