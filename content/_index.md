@@ -42,7 +42,7 @@ Minor in Natural Resource Management
 **B.S. in Biology**  
 Minor in Chemistry
 
-**Current Position:** Postdoctoral Researcher, University of Arizona
+**Current Position:** Bioinformatician, Funga PBC
 
 ## Let's Connect
 
