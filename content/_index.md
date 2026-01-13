@@ -31,7 +31,7 @@ With expertise spanning metagenomics, biogeochemistry, and large-scale data anal
 ## Services & Offerings
 
 ### Consulting
-Expert guidance on bioinformatics workflows, environmental data analysis, research strategy, and building cloud naitive systems
+Expert guidance on bioinformatics workflows, environmental data analysis, research strategy, and designing cloud-native, reproducible data systems.
 
 ### Training & Workshops  
 Custom training programs in metagenomics, data science, and bioinformatics for research teams and early career researchers
