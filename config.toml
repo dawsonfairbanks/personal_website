@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "Dawson Fairbanks"
 theme = "simple"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   author = "Dawson Fairbanks"
   description = "Postdoctoral Researcher | Biogeochemist | Microbial Ecologist"
