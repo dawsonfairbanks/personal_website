@@ -52,7 +52,7 @@ When I'm not wrangling genomes or building pipelines, you'll find me thinking ab
 
 Outside of work, I’m a curious wanderer and lifelong adventurer. Born and raised in Alaska, I grew up close to wild landscapes that shaped my appreciation for nature, exploration, and systems thinking—perspectives that continue to influence how I approach science today.
 
-<img src="/dawson_morocco2025.jpg" alt="Dawson in Morocco" style="max-width: 600px; border-radius: 8px; margin: 20px 0;"> 
+<img src="/dawson_morocco2025.jpg" alt="Dawson in Morocco" style="max-width: 600px; border-radius: 8px; margin: 20px auto; display: block;"> 
 
 ---
 
