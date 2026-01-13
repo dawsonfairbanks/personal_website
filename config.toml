@@ -29,14 +29,18 @@ theme = "simple"
     url = "/"
     weight = 1
   [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 2
+  [[menu.main]]
     name = "Experience"
     url = "/research"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "Publications"
     url = "/publications"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Contact"
-    url = "/#lets-connect"
-    weight = 4
+    url = "/#ready-to-work-together"
+    weight = 5
