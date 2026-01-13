@@ -9,8 +9,8 @@ title: "Home"
   <p class="profile-title">Bioinformatician<br>Funga PBC</p>
 </div>
 
-**Biogeochemist | Full-Stack Data Scientist | Scientific Consultant | Computational Biologist**  
-Building AI-driven insights at the intersection of microbial genomics, ecosystem health, and climate solutions.
+**Environmental Data Scientist | Scientific Consultant | Computational Biologist | Earth System Scientist**  
+AI-driven insights at the intersection of microbial genomics, ecosystem health, and climate solutions.
 
 ## What I Do
 
