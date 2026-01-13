@@ -52,14 +52,31 @@ main {
     min-height: 60vh;
 }
 
-article img {
+.profile-section {
+    float: right;
+    margin: 0 0 20px 30px;
+    text-align: center;
+}
+
+.profile-section img {
     width: 250px;
     height: 250px;
     border-radius: 50%;
     object-fit: cover;
     object-position: center;
-    float: right;
-    margin: 0 0 20px 30px;
+    display: block;
+}
+
+.profile-title {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #555;
+    line-height: 1.4;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
 }
 
 h1 {
@@ -131,9 +148,12 @@ footer a {
         justify-content: center;
     }
     
-    article img {
+    .profile-section {
         float: none;
-        display: block;
         margin: 20px auto;
+    }
+    
+    .profile-section img {
+        margin: 0 auto;
     }
 }

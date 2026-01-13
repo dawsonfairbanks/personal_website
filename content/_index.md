@@ -4,7 +4,10 @@ title: "Home"
 
 # Dawson Fairbanks, PhD
 
-![Profile Photo](/avatar.jpg)
+<div class="profile-section">
+  <img src="/avatar.jpg" alt="Dawson Fairbanks">
+  <p class="profile-title">Bioinformatician<br>Funga PBC</p>
+</div>
 
 **Biogeochemist | Data Scientist | Scientific Consultant**  
 Transforming complex environmental data into actionable insights
@@ -18,21 +21,20 @@ With expertise spanning metagenomics, biogeochemistry, and large-scale data anal
 ## Areas of Expertise
 
 - **Metagenomics & Bioinformatics** - Advanced microbial community analysis and genome-scale insights
+- **Machine Learning & Automation** — Scalable modeling, workflow automation, and reproducible science  
 - **Environmental Data Science** - Transforming big data into actionable environmental intelligence  
 - **Soil Biogeochemistry** - Understanding soil-microbe interactions and ecosystem function
 - **Scientific Consulting** - Strategic guidance for research teams and environmental projects
 - **Data Visualization & Communication** - Making complex science accessible and impactful
+- **Cloud-Native Systems & Infrastructure** — Designing scalable, reproducible, and cost-efficient data platforms
 
 ## Services & Offerings
 
 ### Consulting
-Expert guidance on bioinformatics workflows, environmental data analysis, and research strategy
+Expert guidance on bioinformatics workflows, environmental data analysis, research strategy, and building cloud naitive systems
 
 ### Training & Workshops  
-Custom training programs in metagenomics, data science, and bioinformatics for research teams
-
-### Digital Products
-Online courses and resources helping scientists master modern data analysis techniques *(Coming Soon)*
+Custom training programs in metagenomics, data science, and bioinformatics for research teams and early career researchers
 
 ## Credentials
 
@@ -50,5 +52,5 @@ Minor in Chemistry
 
 Ready to tackle complex environmental challenges with cutting-edge science and data?
 
-Email: [your.email@arizona.edu](mailto:your.email@arizona.edu)  
+Email: [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanksl@gmail.com)  
 GitHub: [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)
