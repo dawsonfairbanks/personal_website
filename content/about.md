@@ -41,10 +41,10 @@ Leading biodiversity modeling and data infrastructure for forest restoration pro
 
 ## Professional Experience Highlights
 
-- **NSF Earth Science Postdoctoral Fellow** - Lead Investigator on NSF-funded research integrating subsurface microbial processes
-- **University of Arizona / UC Riverside** - Postdoctoral Researcher leading DOE-funded research on trait-based microbial ecology
-- **Published researcher** with peer-reviewed work in Environmental Microbiome, Soil Biology & Biochemistry, and mBio
-- **Climate science leader** organizing AGU sessions on microbial processes in Carbon Dioxide Removal
+- **First data science hire at Funga PBC** - Built cloud-native genomics pipelines and ML models linking biodiversity to forest productivity
+- **NSF Earth Science Postdoctoral Research Fellow** - Lead investigator integrating microbial trait data across network observatories
+- **DOE CSP grant lead at the University of Arizona** - Led trait-based microbial ecology research in the Jemez River Basin
+- **AGU session convener and chair** - Organized 13 oral and 8 poster sessions on microbial dynamics and carbon dioxide removal
 
 ## Beyond the Lab
 
@@ -60,6 +60,7 @@ Outside of work, I’m a curious wanderer and lifelong adventurer. Born and rais
 
 If you're looking for strategic guidance on environmental genomics, data science infrastructure, or climate-focused research, I'm always open to thoughtful collaborations and consulting engagements.
 
+📄 **CV:** [Download PDF](/Fairbanks_CV_2026_webversion.pdf)
 📧 **Email:** [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanks@gmail.com)  
 💻 **GitHub:** [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)  
 📚 **Google Scholar:** [View Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao)  
