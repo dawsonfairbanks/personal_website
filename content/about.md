@@ -11,8 +11,6 @@ title: "About"
 
 I'm a generalist by curiosity and a specialist by training, working at the intersection of environmental science, biology, and data.
 
-📄 **CV:** [Download PDF](/Fairbanks_CV_2026_webversion.pdf)
-
 My background spans metagenomics, soil biogeochemistry, and large-scale environmental data analysis, with a focus on using machine learning and cloud-native tools to better understand ecosystems and support climate and restoration efforts. I help startups and research-driven organizations translate complex science into scalable, reproducible systems, turning data and models into tools that support real-world decision-making in biotechnology, soil health, microbial ecology, and environmental science.
 
 ## Education & Training
