@@ -61,6 +61,7 @@ Whether you need **strategic consulting**, **cloud native infrastructure**, **bi
   <a href="mailto:dawson.fairbanks@gmail.com" style="display: inline-block; background:rgb(43, 49, 53); color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">Get In Touch</a>
 </div>
 
+📄 **CV:** [Download PDF](/Fairbanks_CV_2026_webversion.pdf)  
 📧 **Email:** [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanks@gmail.com)  
 💻 **GitHub:** [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)  
 📚 **Google Scholar:** [View Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao)  
