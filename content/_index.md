@@ -33,7 +33,7 @@ I work at the intersection of computational biology, genomics, earth system scie
 I'm always glad to connect with researchers and teams working on environmental genomics, reproducible data systems, and climate-focused science — whether that's a **research collaboration**, a **speaking or workshop invitation**, **advising**, or **mentoring** early-career scientists.
 
 <div style="text-align: center; margin: 40px 0;">
-  <a href="mailto:dawson.fairbanks@gmail.com" style="display: inline-block; background:#f05808; color: #f3f3e6; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">Get In Touch</a>
+  <a href="mailto:dawson.fairbanks@gmail.com" style="display: inline-block; background:#d7afc7; color: #3d3c31; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">Get In Touch</a>
 </div>
 
 📧 **Email:** [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanks@gmail.com)  

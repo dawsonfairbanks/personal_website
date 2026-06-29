@@ -15,11 +15,11 @@ My background spans metagenomics, soil biogeochemistry, and large-scale environm
 
 ## Education & Training
 
-<i class="fa-solid fa-graduation-cap" style="color: #d98b1a;"></i> **PhD in Environmental Science**  
+<i class="fa-solid fa-graduation-cap" style="color: #cfb12f;"></i> **PhD in Environmental Science**  
 University of Arizona  
 Minor in Natural Resource Management
 
-<i class="fa-solid fa-graduation-cap" style="color: #d98b1a;"></i> **B.S. in Biology**  
+<i class="fa-solid fa-graduation-cap" style="color: #cfb12f;"></i> **B.S. in Biology**  
 Northern Arizona University  
 Minor in Chemistry
 

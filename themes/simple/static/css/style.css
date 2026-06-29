@@ -1,24 +1,20 @@
 /* ===========================================================
-   Dawson palette on cream — exact "Dawson" theme colors,
-   light background. bg/text are the palette's own cream &
-   taupe, swapped; accents are unchanged Dawson hexes.
-   bg #f3f3e6 (cream) · text #3d3c31 (taupe) · muted #6d685b
-   accents: orange #f05808 · gold #cfb12f · amber #d98b1a
-            lavender #d7afc7 · pink #e44c81 · tan #d7c3a3
+   Dawson palette on white — lavender + gold highlights.
+   Pastels are used as ACCENT elements (underlines, fills,
+   markers, rules), text stays dark for readability.
+   bg #ffffff · text #3d3c31 (Dawson taupe) · muted #6d685b
+   highlights: lavender #d7afc7 · gold #cfb12f
    =========================================================== */
 
 :root {
-    --bg:          #f3f3e6;   /* Dawson cream (its foreground, now background) */
-    --text:        #3d3c31;   /* Dawson taupe (its background, now text) */
-    --muted:       #6d685b;
-    --faint:       #8f897b;
-    --border:      #cbc5b4;
-    --accent:      #f05808;   /* orange */
-    --gold:        #cfb12f;
-    --amber:       #d98b1a;
-    --lavender:    #d7afc7;
-    --pink:        #e44c81;
-    --tan:         #d7c3a3;
+    --bg:        #ffffff;
+    --text:      #3d3c31;   /* Dawson taupe */
+    --muted:     #6d685b;
+    --faint:     #8f897b;
+    --border:    #ece9e2;   /* soft neutral hairline */
+    --lavender:  #d7afc7;   /* primary highlight */
+    --gold:      #cfb12f;   /* secondary highlight */
+    --lav-wash:  #d7afc733; /* lavender highlighter on hover */
 }
 
 * {
@@ -40,7 +36,7 @@ body {
 header {
     margin-bottom: 40px;
     padding-bottom: 20px;
-    border-bottom: 2px solid var(--border);
+    border-bottom: 2px solid var(--lavender);
 }
 
 nav {
@@ -54,31 +50,49 @@ nav {
     font-weight: bold;
     color: var(--text);
     text-decoration: none;
-    transition: color 0.2s;
+    border-bottom: 3px solid var(--gold);
+    padding-bottom: 2px;
+    transition: border-color 0.2s;
 }
 
 .logo a:hover {
-    color: var(--accent);
+    border-bottom-color: var(--lavender);
 }
 
 .menu {
     list-style: none;
     display: flex;
-    gap: 20px;
+    gap: 22px;
 }
 
 .menu a {
     color: var(--muted);
     text-decoration: none;
-    transition: color 0.2s;
+    padding-bottom: 3px;
+    border-bottom: 2px solid transparent;
+    transition: color 0.2s, border-color 0.2s;
 }
 
 .menu a:hover {
-    color: var(--accent);
+    color: var(--text);
+    border-bottom-color: var(--gold);
 }
 
 main {
     min-height: 60vh;
+}
+
+/* content links: dark text, lavender underline, gold + wash on hover */
+main a {
+    color: var(--text);
+    text-decoration: none;
+    border-bottom: 2px solid var(--lavender);
+    transition: background 0.15s, border-color 0.15s;
+}
+
+main a:hover {
+    background: var(--lav-wash);
+    border-bottom-color: var(--gold);
 }
 
 .profile-section {
@@ -94,7 +108,7 @@ main {
     object-fit: cover;
     object-position: center;
     display: block;
-    border: 3px solid var(--border);
+    border: 4px solid var(--lavender);
 }
 
 .profile-title {
@@ -117,17 +131,22 @@ h1 {
 }
 
 h2 {
-    color: var(--accent);
-    margin-top: 30px;
-    margin-bottom: 15px;
+    color: var(--text);
+    margin-top: 34px;
+    margin-bottom: 16px;
     font-size: 1.8em;
+    display: inline-block;
+    border-bottom: 3px solid var(--gold);   /* gold heading underline */
+    padding-bottom: 4px;
 }
 
 h3 {
-    color: var(--amber);
-    margin-top: 20px;
+    color: var(--text);
+    margin-top: 22px;
     margin-bottom: 10px;
-    font-size: 1.4em;
+    font-size: 1.35em;
+    border-left: 4px solid var(--lavender);  /* lavender accent bar */
+    padding-left: 12px;
 }
 
 p {
@@ -147,37 +166,30 @@ li {
     margin-bottom: 6px;
 }
 
-a {
-    color: var(--accent);
-    text-decoration: none;
-    transition: color 0.2s;
-}
-
-a:hover {
-    color: var(--amber);
-    text-decoration: underline;
+li::marker {
+    color: var(--gold);   /* gold bullets */
 }
 
 hr {
     border: none;
-    border-top: 1px solid var(--border);
-    margin: 30px 0;
+    border-top: 2px solid var(--lavender);
+    margin: 34px 0;
 }
 
 ::selection {
-    background: #d7afc755;  /* Dawson lavender selection */
+    background: var(--lav-wash);
 }
 
 .fa-graduation-cap,
 .fa-user-graduate {
-    color: var(--amber);
+    color: var(--gold);
     margin-right: 8px;
 }
 
 footer {
     margin-top: 60px;
     padding-top: 20px;
-    border-top: 2px solid var(--border);
+    border-top: 2px solid var(--lavender);
     text-align: center;
     color: var(--faint);
 }
@@ -185,10 +197,13 @@ footer {
 footer a {
     margin: 0 10px;
     color: var(--muted);
+    text-decoration: none;
+    border-bottom: 2px solid transparent;
+    transition: border-color 0.2s;
 }
 
 footer a:hover {
-    color: var(--accent);
+    border-bottom-color: var(--gold);
 }
 
 @media (max-width: 768px) {
