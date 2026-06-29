@@ -26,17 +26,29 @@ Providing scientific leadership at the intersection of **microbes, soils, and Ca
 - Designing AI-driven systems linking soil microbiome composition to forest growth and carbon outcomes  
 - Architecting cloud-native pipelines integrating genomics, GIS, and remote sensing data  
 
-### NSF Earth Science Postdoctoral Fellow — Lead Investigator  
+### NSF Earth Science Postdoctoral Research Fellow — Lead Investigator  
 *Remote | 2023 – 2024*
 
 - Principal investigator on NSF-funded research integrating subsurface microbial processes across spatial and temporal scales  
 - Developed reproducible, cloud-based pipelines for large-scale geomicrobiological data synthesis  
 
-### University of Arizona / UC Riverside — Postdoctoral Researcher & Bioinformatician  
-*2022 – 2023*
+### Independent Contractor — Computational Biology & Cloud Computing  
+*2023*
 
-- Led DOE-funded research on trait-based microbial responses and ecosystem modeling  
-- Managed sequencing, analysis workflows, and cross-institutional collaborations  
+- Built scalable amplicon and metagenomic pipelines for academic partners and published reproducible workflows  
+- Set up cloud computing environments and led workshops in FAIR data science principles  
+
+### The University of Arizona — Postdoctoral Research Fellow  
+*Tucson, AZ | 2022 – 2023*
+
+- Lead PI on a DOE CSP grant studying trait-based microbial responses to moisture pulses in the Jemez River Basin Critical Zone  
+- Assembled metagenome-assembled genomes (MAGs) and linked microbial patterns to seasonality and snowmelt, integrating environmental sensor and stream data  
+
+### The University of Arizona — NSF Graduate Research Fellow  
+*Tucson, AZ | 2014 – 2021*
+
+- Lead microbial ecologist in the Jemez River Basin Critical Zone Observatory, studying responses to precipitation, snowmelt, and fire disturbance  
+- Combined genomics, organic-matter chemistry, hydrology, and remote sensing to investigate carbon cycling and water quality at the watershed scale  
 
 ---
 
