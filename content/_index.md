@@ -2,8 +2,6 @@
 title: "Home"
 ---
 
-# Dawson Fairbanks, PhD
-
 <div class="profile-section">
   <img src="/avatar.jpg" alt="Dawson Fairbanks">
   <p class="profile-title">Current: Senior Research Scientist at Funga PBC</p>
