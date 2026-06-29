@@ -10,7 +10,7 @@ title: "Home"
 </div>
 
 **Senior Research Scientist | Microbial Ecologist | Earth System Scientist**  
-I design and lead scalable, reproducible data systems for genomics and computational biology
+I design and lead scalable, reproducible data systems for genomics and computational biology — linking microbial and environmental data to biodiversity and carbon dioxide removal
 
 ## What I Do
 
@@ -22,6 +22,7 @@ I work at the intersection of computational biology, genomics, earth system scie
 - **Machine Learning & Automation** — Scalable modeling, workflow automation, and reproducible science  
 - **Environmental Data Science** - Transforming big data into actionable environmental intelligence  
 - **Soil Biogeochemistry** - Understanding soil-microbe interactions and ecosystem function
+- **Carbon Dioxide Removal** — Connecting soil and microbial data to durable, measurable carbon outcomes
 - **Research Strategy & Systems Thinking** - Helping interdisciplinary teams scale complex scientific work
 - **Data Visualization & Communication** - Making complex science accessible and impactful
 - **Cloud-Native Systems & Infrastructure** — Designing scalable, reproducible, and cost-efficient data platforms
