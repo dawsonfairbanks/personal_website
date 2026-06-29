@@ -10,7 +10,7 @@ theme = "simple"
 
 [params]
   author = "Dawson Fairbanks"
-  description = "Senior Research Scientist | Environmental Data Scientist | Microbial Ecologist"
+  description = "Senior Research Scientist | Microbial Ecologist | Earth System Scientist"
   favicon = "favicon.ico"
 
   [[params.social]]

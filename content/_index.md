@@ -9,7 +9,7 @@ title: "Home"
   <p class="profile-title">Current: Senior Research Scientist at Funga PBC</p>
 </div>
 
-**Environmental Data Scientist | Microbial Ecologist | Earth System Scientist**  
+**Senior Research Scientist | Microbial Ecologist | Earth System Scientist**  
 I design and lead scalable, reproducible data systems for genomics and computational biology
 
 ## What I Do
