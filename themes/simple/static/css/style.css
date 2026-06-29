@@ -1,3 +1,26 @@
+/* ===========================================================
+   Dawson palette on cream — exact "Dawson" theme colors,
+   light background. bg/text are the palette's own cream &
+   taupe, swapped; accents are unchanged Dawson hexes.
+   bg #f3f3e6 (cream) · text #3d3c31 (taupe) · muted #6d685b
+   accents: orange #f05808 · gold #cfb12f · amber #d98b1a
+            lavender #d7afc7 · pink #e44c81 · tan #d7c3a3
+   =========================================================== */
+
+:root {
+    --bg:          #f3f3e6;   /* Dawson cream (its foreground, now background) */
+    --text:        #3d3c31;   /* Dawson taupe (its background, now text) */
+    --muted:       #6d685b;
+    --faint:       #8f897b;
+    --border:      #cbc5b4;
+    --accent:      #f05808;   /* orange */
+    --gold:        #cfb12f;
+    --amber:       #d98b1a;
+    --lavender:    #d7afc7;
+    --pink:        #e44c81;
+    --tan:         #d7c3a3;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -5,9 +28,10 @@
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-family: "proxima-nova", "Proxima Nova", "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, sans-serif;
     line-height: 1.6;
-    color: #333;
+    color: var(--text);
+    background: var(--bg);
     max-width: 1100px;
     margin: 0 auto;
     padding: 20px 40px;
@@ -16,7 +40,7 @@ body {
 header {
     margin-bottom: 40px;
     padding-bottom: 20px;
-    border-bottom: 2px solid #e0e0e0;
+    border-bottom: 2px solid var(--border);
 }
 
 nav {
@@ -28,8 +52,13 @@ nav {
 .logo a {
     font-size: 1.5em;
     font-weight: bold;
-    color: #2c3e50;
+    color: var(--text);
     text-decoration: none;
+    transition: color 0.2s;
+}
+
+.logo a:hover {
+    color: var(--accent);
 }
 
 .menu {
@@ -39,13 +68,13 @@ nav {
 }
 
 .menu a {
-    color: #555;
+    color: var(--muted);
     text-decoration: none;
     transition: color 0.2s;
 }
 
 .menu a:hover {
-    color: #2c3e50;
+    color: var(--accent);
 }
 
 main {
@@ -65,12 +94,13 @@ main {
     object-fit: cover;
     object-position: center;
     display: block;
+    border: 3px solid var(--border);
 }
 
 .profile-title {
     margin-top: 10px;
     font-size: 0.9em;
-    color: #555;
+    color: var(--muted);
     line-height: 1.4;
 }
 
@@ -80,20 +110,21 @@ article img {
 }
 
 h1 {
-    color: #2c3e50;
+    color: var(--text);
     margin-bottom: 20px;
     font-size: 2.5em;
+    line-height: 1.2;
 }
 
 h2 {
-    color: #34495e;
+    color: var(--accent);
     margin-top: 30px;
     margin-bottom: 15px;
     font-size: 1.8em;
 }
 
 h3 {
-    color: #555;
+    color: var(--amber);
     margin-top: 20px;
     margin-bottom: 10px;
     font-size: 1.4em;
@@ -103,60 +134,86 @@ p {
     margin-bottom: 15px;
 }
 
+strong {
+    color: var(--text);
+}
+
 ul {
     margin-left: 20px;
     margin-bottom: 15px;
 }
 
+li {
+    margin-bottom: 6px;
+}
+
 a {
-    color: #3498db;
+    color: var(--accent);
     text-decoration: none;
+    transition: color 0.2s;
 }
 
 a:hover {
+    color: var(--amber);
     text-decoration: underline;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 30px 0;
+}
+
+::selection {
+    background: #d7afc755;  /* Dawson lavender selection */
 }
 
 .fa-graduation-cap,
 .fa-user-graduate {
-    color: #3498db;
+    color: var(--amber);
     margin-right: 8px;
 }
 
 footer {
     margin-top: 60px;
     padding-top: 20px;
-    border-top: 2px solid #e0e0e0;
+    border-top: 2px solid var(--border);
     text-align: center;
-    color: #777;
+    color: var(--faint);
 }
 
 footer a {
     margin: 0 10px;
-    color: #555;
+    color: var(--muted);
+}
+
+footer a:hover {
+    color: var(--accent);
 }
 
 @media (max-width: 768px) {
     body {
         padding: 15px 20px;
     }
-    
+
     nav {
         flex-direction: column;
         gap: 15px;
     }
-    
+
     .menu {
         flex-wrap: wrap;
         justify-content: center;
     }
-    
+
     .profile-section {
         float: none;
         margin: 20px auto;
     }
-    
+
     .profile-section img {
         margin: 0 auto;
+        width: 220px;
+        height: 220px;
     }
 }

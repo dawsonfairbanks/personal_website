@@ -19,7 +19,7 @@ Providing scientific leadership at the intersection of **microbes, soils, and Ca
 
 ## Professional Experience
 
-### Funga PBC — Bioinformatician & Data Scientist  
+### Funga PBC — Senior Research Scientist  
 *Remote | 2024 – Present*
 
 - Leading biodiversity modeling and data infrastructure for forest restoration projects  
@@ -52,7 +52,7 @@ Providing scientific leadership at the intersection of **microbes, soils, and Ca
 - Integration of raster and vector geospatial datasets
 - Model interpretation and uncertainty-aware decision support
 
-### Research Strategy & Consulting
+### Research Strategy & Collaboration
 - Study design and experimental planning
 - Data analysis strategy and implementation
 - Scientific communication and reporting
@@ -79,4 +79,4 @@ Selected peer-reviewed publications are available on the
 
 ## Let’s Collaborate
 
-If you’re looking for a strategic partner in **environmental genomics, data science, or climate-focused research**, I’m always open to thoughtful collaborations and consulting engagements.
+If you’re working on **environmental genomics, data science, or climate-focused research**, I’m always glad to connect — for research collaborations, speaking, and advising.

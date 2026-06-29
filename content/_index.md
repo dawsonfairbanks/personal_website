@@ -6,32 +6,15 @@ title: "Home"
 
 <div class="profile-section">
   <img src="/avatar.jpg" alt="Dawson Fairbanks">
-  <p class="profile-title">Current: Bioinformatician at Funga PBC</p>
+  <p class="profile-title">Current: Senior Research Scientist at Funga PBC</p>
 </div>
 
-**Environmental Data Scientist | Scientific Consultant | Earth System Scientist**  
+**Environmental Data Scientist | Microbial Ecologist | Earth System Scientist**  
 I design and lead scalable, reproducible data systems for genomics and computational biology
-
-## Credentials
-
-<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **PhD in Environmental Science**  
-University of Arizona  
-Minor in Natural Resource Management
-
-<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **B.S. in Biology**  
-Northern Arizona University  
-Minor in Chemistry
 
 ## What I Do
 
 I work at the intersection of computational biology, genomics, earth system science and data systems, focusing on how complex scientific work scales within organizations. I design and guide reproducible workflows, data models, and analytical systems for interdisciplinary teams, bringing domain expertise and systems thinking to biological and environmental data.
-
-### I Work With
-
-✓ **Climate tech startups** building carbon dioxide removal solutions  
-✓ **Biotech companies** leveraging microbial data for product development  
-✓ **Research teams** needing bioinformatics infrastructure and training  
-✓ **Environmental organizations** using data to drive restoration and conservation
 
 ## Areas of Expertise
 
@@ -39,29 +22,20 @@ I work at the intersection of computational biology, genomics, earth system scie
 - **Machine Learning & Automation** — Scalable modeling, workflow automation, and reproducible science  
 - **Environmental Data Science** - Transforming big data into actionable environmental intelligence  
 - **Soil Biogeochemistry** - Understanding soil-microbe interactions and ecosystem function
-- **Scientific Consulting** - Strategic guidance for research teams and environmental projects
+- **Research Strategy & Systems Thinking** - Helping interdisciplinary teams scale complex scientific work
 - **Data Visualization & Communication** - Making complex science accessible and impactful
 - **Cloud-Native Systems & Infrastructure** — Designing scalable, reproducible, and cost-efficient data platforms
 
-## Services & Offerings
-
-### Consulting
-Expert guidance on bioinformatics workflows, environmental data analysis, research strategy, and designing cloud-native, reproducible data systems.
-
-### Training & Workshops  
-Custom training programs in data science, cloud computing, and bioinformatics for research teams and early career researchers
-
 ---
 
-## Ready to Work Together?
+## Open to Collaboration
 
-Whether you need **strategic consulting**, **cloud native infrastructure**, **bioinformatics support** or **hands-on data science support**, let's discuss how I can help advance your environmental science and climate goals.
+I'm always glad to connect with researchers and teams working on environmental genomics, reproducible data systems, and climate-focused science — whether that's a **research collaboration**, a **speaking or workshop invitation**, **advising**, or **mentoring** early-career scientists.
 
 <div style="text-align: center; margin: 40px 0;">
-  <a href="mailto:dawson.fairbanks@gmail.com" style="display: inline-block; background:rgb(43, 49, 53); color: white; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">Get In Touch</a>
+  <a href="mailto:dawson.fairbanks@gmail.com" style="display: inline-block; background:#f05808; color: #f3f3e6; padding: 15px 40px; text-decoration: none; border-radius: 5px; font-weight: bold; font-size: 1.1em;">Get In Touch</a>
 </div>
 
-📄 **CV:** [Download PDF](/Fairbanks_CV_2026_webversion.pdf)  
 📧 **Email:** [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanks@gmail.com)  
 💻 **GitHub:** [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)  
 📚 **Google Scholar:** [View Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao)  

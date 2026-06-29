@@ -10,7 +10,7 @@ theme = "simple"
 
 [params]
   author = "Dawson Fairbanks"
-  description = "Postdoctoral Researcher | Biogeochemist | Microbial Ecologist"
+  description = "Senior Research Scientist | Environmental Data Scientist | Microbial Ecologist"
   favicon = "favicon.ico"
 
   [[params.social]]
@@ -42,5 +42,5 @@ theme = "simple"
     weight = 4
   [[menu.main]]
     name = "Contact"
-    url = "/#ready-to-work-together"
+    url = "/#open-to-collaboration"
     weight = 5

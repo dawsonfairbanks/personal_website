@@ -4,7 +4,7 @@ title: "About"
 
 <div class="profile-section">
   <img src="/avatar.jpg" alt="Dawson Fairbanks">
-  <p class="profile-title">Bioinformatician<br>Funga PBC</p>
+  <p class="profile-title">Senior Research Scientist<br>Funga PBC</p>
 </div>
 
 
@@ -15,11 +15,11 @@ My background spans metagenomics, soil biogeochemistry, and large-scale environm
 
 ## Education & Training
 
-<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **PhD in Environmental Science**  
+<i class="fa-solid fa-graduation-cap" style="color: #d98b1a;"></i> **PhD in Environmental Science**  
 University of Arizona  
 Minor in Natural Resource Management
 
-<i class="fa-solid fa-graduation-cap" style="color: black;"></i> **B.S. in Biology**  
+<i class="fa-solid fa-graduation-cap" style="color: #d98b1a;"></i> **B.S. in Biology**  
 Northern Arizona University  
 Minor in Chemistry
 
@@ -34,7 +34,7 @@ I believe the best science happens at interfaces, where disciplines collide and 
 
 ## Current Position
 
-**Bioinformatician & Data Scientist**  
+**Senior Research Scientist**  
 Funga PBC | 2024 – Present
 
 Leading biodiversity modeling and data infrastructure for forest restoration projects. Designing AI-driven systems linking soil microbiome composition to forest growth and carbon outcomes.
@@ -56,11 +56,10 @@ Outside of work, I’m a curious wanderer and lifelong adventurer. Born and rais
 
 ---
 
-## Let's Work Together
+## Open to Collaboration
 
-If you're looking for strategic guidance on environmental genomics, data science infrastructure, or climate-focused research, I'm always open to thoughtful collaborations and consulting engagements.
+I'm always glad to connect on environmental genomics, reproducible data systems, and climate-focused science — for research collaborations, speaking, advising, and mentoring early-career scientists.
 
-📄 **CV:** [Download PDF](/Fairbanks_CV_2026_webversion.pdf)  
 📧 **Email:** [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanks@gmail.com)  
 💻 **GitHub:** [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)  
 📚 **Google Scholar:** [View Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao)  
