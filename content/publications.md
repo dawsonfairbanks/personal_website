@@ -5,6 +5,8 @@ title: "Publications"
 For a complete and up-to-date list of publications and citations, please see my
 [Google Scholar profile](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao).
 
+<p class="pub-stats">575+ citations &middot; h-index 8 &middot; Google Scholar, November 2026</p>
+
 ## Journal Articles
 
 1. Winston Anthony, Steve Allison, Caitlin M. Broderick, Luciana Chavez Rodriguez, Alicia Clum, Hugh Cross, Emiley Eloe-Fadrosh, Sarah Evans, **Dawson Fairbanks**, Rachel Gallery, Julia Brandao Gontijo, Jennifer Jones, Jason McDermott, Jennifer Pett-Ridge, Sydne Record, Jorge Luiz Mazza Rodriguez, William Rodriguez-Reillo, Katherine L. Shek, Jeffrey L. Blanchard.  

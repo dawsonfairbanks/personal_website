@@ -7,11 +7,9 @@ title: "About"
   <p class="profile-title">Senior Research Scientist<br>Funga PBC</p>
 </div>
 
+I'm a data science leader and microbial ecologist. I spent a decade studying how soil microbes drive carbon and water cycling in mountain watersheds, then joined Funga as its first data science hire to put that science to work in forest restoration. Today I set the research direction for biodiversity and genomics, run the data platform the company's models read from, and own the analyses that connect soil fungi to tree growth and carbon.
 
-
-I'm a generalist by curiosity and a specialist by training, working at the intersection of environmental science, biology, and data.
-
-My background spans metagenomics, soil biogeochemistry, and large-scale environmental data analysis, with a focus on using machine learning and cloud-native tools to better understand ecosystems and support climate and restoration efforts. I help startups and research-driven organizations translate complex science into scalable, reproducible systems, turning data and models into tools that support real-world decision-making in biotechnology, soil health, microbial ecology, and environmental science.
+The through-line is the question I started with: what can we actually infer from a soil sample, and how do we build systems where the answer holds up under review.
 
 ## Education & Training
 
@@ -23,44 +21,42 @@ Minor in Natural Resource Management
 Northern Arizona University  
 Minor in Chemistry
 
-## My Approach
+## How I lead
 
-I believe the best science happens at interfaces, where disciplines collide and new questions emerge. My work combines:
+- **Direction before tooling.** I write the scoping document first, agree on the decision it supports, and only then build. Most of the data science I've shipped started as a one-page memo.
+- **Platforms other people can run.** The pipelines, feature store and reference sets I designed are versioned, documented and handed off. I measure success by what runs without me.
+- **Science that survives scrutiny.** Validation, held-out tests, provenance and code review on every result, including the ones that come back null.
+- **Partners, vendors and community.** I manage sequencing and soil chemistry lab relationships and contractor scopes of work, and I've convened the AGU carbon removal community for a decade.
 
-- **Deep domain expertise** in microbial ecology and biogeochemistry
-- **Technical fluency** across bioinformatics, data science, and cloud infrastructure
-- **Strategic thinking** about how to translate research into impact, using tech-based tooling
-- **Collaborative mindset** that bridges academic rigor and business pragmatism
+## Current position
 
-## Current Position
+**Senior Research Scientist, Funga PBC** · 2024 – Present
 
-**Senior Research Scientist**  
-Funga PBC | 2024 – Present
+First data science hire. Built the genomics and biodiversity data platform from zero and lead the modeling that links soil microbiome composition to forest growth and carbon outcomes: growth and yield forecasting, trial and nursery effects, donor transfer efficacy and landowner reporting. Own the sequencing program and its budget. Brief the leadership team and the board.
 
-Leading biodiversity modeling and data infrastructure for forest restoration projects. Designing AI-driven systems linking soil microbiome composition to forest growth and carbon outcomes.
+## Career highlights
 
-## Professional Experience Highlights
+- **Built a data science function from zero** at a venture-backed climate company: the platform, the roadmap, the review practices and the science behind the product.
+- **NSF Earth Science Postdoctoral Fellow**, lead investigator integrating microbial trait data across national observatory networks.
+- **DOE Joint Genome Institute CSP New Investigator award**, lead PI on trait-based microbial ecology in the Jemez River Basin Critical Zone.
+- **AGU session convener and chair since 2016**: 13 oral and 8 poster sessions and 450+ abstracts on scaling microbes to biogeochemical cycles and carbon dioxide removal.
+- **NEON microbial technical working group** and **NCEAS synthesis lead investigator**: shared workflows and reference databases over more than 10 TB of data.
 
-- **First data science hire at Funga PBC** - Built cloud-native genomics pipelines and ML models linking biodiversity to forest productivity
-- **NSF Earth Science Postdoctoral Research Fellow** - Lead investigator integrating microbial trait data across network observatories
-- **DOE CSP grant lead at the University of Arizona** - Led trait-based microbial ecology research in the Jemez River Basin
-- **AGU session convener and chair** - Organized 13 oral and 8 poster sessions on microbial dynamics and carbon dioxide removal
+## Beyond the lab
 
-## Beyond the Lab
-
-When I'm not wrangling genomes or building pipelines, you'll find me thinking about how to make science more accessible, reproducible, and impactful. I'm passionate about mentoring early-career scientists and building tools that help others do better science.
-
-Outside of work, I’m a curious wanderer and lifelong adventurer. Born and raised in Alaska, I grew up close to wild landscapes that shaped my appreciation for nature, exploration, and complex systems thinking, perspectives that continue to influence how I approach science today.
+Outside of work I'm a curious wanderer and lifelong adventurer. I was born and raised in Alaska, close to wild landscapes that shaped how I think about nature, exploration and complex systems. That perspective still shows up in how I approach science and the people I work with. I care about making science more accessible and reproducible, and about mentoring early-career scientists into the field.
 
 <img src="/dawson_morocco2025.jpg" alt="Dawson in Morocco" style="max-width: 600px; border-radius: 8px; margin: 20px auto; display: block;"> 
 
 ---
 
-## Open to Collaboration
+## Open to collaboration
 
-I'm always glad to connect on environmental genomics, reproducible data systems, and climate-focused science — for research collaborations, speaking, advising, and mentoring early-career scientists.
+I'm glad to connect on environmental genomics, reproducible data systems and climate science, for research collaborations, speaking, advising and mentoring early-career scientists.
 
-📧 **Email:** [dawson.fairbanks[at]gmail.com](mailto:dawson.fairbanks@gmail.com)  
-💻 **GitHub:** [github.com/dawsonfairbanks](https://github.com/dawsonfairbanks)  
-📚 **Google Scholar:** [View Publications](https://scholar.google.com/citations?user=TjtNlmcAAAAJ&hl=en&oi=ao)  
-💼 **LinkedIn:** [linkedin.com/in/dawsonfairbanks](https://www.linkedin.com/in/dawsonfairbanks)
+<p class="contact-row">
+  <a href="mailto:dawson.fairbanks@gmail.com"><i class="fa-solid fa-envelope"></i>dawson.fairbanks[at]gmail.com</a>
+  <a href="https://www.linkedin.com/in/dawsonfairbanks"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>
+  <a href="https://github.com/dawsonfairbanks"><i class="fa-brands fa-github"></i>GitHub</a>
+  <a href="https://scholar.google.com/citations?user=TjtNlmcAAAAJ&amp;hl=en"><i class="fa-solid fa-graduation-cap"></i>Google Scholar</a>
+</p>
