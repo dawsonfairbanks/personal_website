@@ -10,7 +10,7 @@ theme = "simple"
 
 [params]
   author = "Dawson Fairbanks"
-  description = "Senior Research Scientist | Microbial Ecologist | Earth System Scientist"
+  description = "Data science leader | Microbial ecologist | Forests and carbon"
   favicon = "favicon.ico"
 
   [[params.social]]
@@ -21,7 +21,7 @@ theme = "simple"
   [[params.social]]
     name = "Email"
     icon = "fas fa-envelope"
-    url = "mailto:dawson@example.com"
+    url = "mailto:dawson.fairbanks@gmail.com"
 
 [menu]
   [[menu.main]]
