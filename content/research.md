@@ -2,18 +2,18 @@
 title: "Experience"
 ---
 
-I lead data science at the intersection of **microbial ecology, forest growth and carbon removal**: setting direction, building the platform, and owning the models and reports that decisions rest on.
+I lead data science in climate tech, at the intersection of **microbial ecology, forest growth and carbon removal**: setting direction, building the systems, developing the models, and growing the people and partnerships that decisions rest on.
 
 ## What I lead now
 
 ### Biodiversity and genomics platform
-Architecture and roadmap for Funga's fungal biodiversity data: Nextflow sequencing pipelines on AWS, pooled OTU reference sets with frozen ASV-to-OTU maps, a Parquet and Postgres feature store with DuckDB read paths, release runbooks and provenance tracking. The corpus holds over a billion reads from more than 5,000 soil samples and feeds the nursery, trial, carbon and growth models.
+Architecture and roadmap for Funga's fungal biodiversity data. Led the port of the sequencing pipeline to Nextflow on AWS and the cloud compute behind it. Pooled OTU reference sets with frozen ASV-to-OTU maps, a Parquet and Postgres feature store with DuckDB read paths, release runbooks and provenance tracking. Sample intake workflows across every project, end to end, through to a biodiversity landing page. The corpus holds over a billion reads from more than 5,000 soil samples and feeds the nursery, trial, carbon and growth models.
 
 ### Growth, carbon and trial modeling
-A loblolly growth and yield model on Forest Inventory and Analysis plots and industry cruise data, benchmarked against FASTLOB with MLflow tracking and a model registry. Donor transfer efficacy, nursery and field trial effects, cross-trial syntheses, and the bounded nulls when an effect isn't there.
+Lead developer of a loblolly growth and yield model on Forest Inventory and Analysis plots and industry cruise data, benchmarked against FASTLOB with MLflow tracking and a model registry. Quantitative research in ecoinformatics and biodiversity: donor transfer efficacy, nursery and field trial effects, biodiversity lift, cross-trial syntheses, and the bounded nulls when an effect isn't there.
 
-### Sequencing program, partners and community
-Sample prioritization and simulation-based budget design, vendor management for sequencing and soil chemistry labs, contractor scopes of work, landowner reporting, and the AGU sessions that connect this work to the carbon removal research community.
+### Strategy, people and markets
+First data science hire, helping set company strategy. Research direction and review of the team's work, product partnership on the roadmap, hiring committees and job descriptions, onboarding and training. Pod leader for bioprospecting. Sequencing program and budget, vendor management for sequencing and soil chemistry labs, contractor scopes of work, reports for landowners and carbon buyers, the evidence behind market expansion, and the AGU sessions that connect this work to the carbon removal research community.
 
 ---
 
@@ -22,10 +22,13 @@ Sample prioritization and simulation-based budget design, vendor management for 
 ### Funga PBC — Senior Research Scientist  
 *Remote | 2024 – Present*
 
-- First data science hire. Built the genomics and biodiversity data platform from zero and set its roadmap  
-- Lead the modeling that links soil fungal communities to tree growth and carbon: growth and yield, trial effects, donor transfer, landowner reporting  
-- Own the sequencing program: sample selection, the budget case, and the sequencing and soil chemistry lab relationships  
-- Run a spec-driven, AI-assisted analysis workflow with pull requests, adversarial review and human merges; publish decision reports to the internal report site  
+- First data science hire, helping set company strategy. Set research direction and review the team's work  
+- Partner with product on the roadmap; sit on hiring committees, write job descriptions, onboard and train new hires  
+- Lead growth and yield model development: loblolly pine on FIA and industry cruise data, benchmarked against FASTLOB, tracked in MLflow  
+- Pod leader for bioprospecting: stood up sample intake workflows across all projects, end to end, through to a biodiversity landing page and reports for landowners and carbon buyers  
+- Led the port of the sequencing pipeline to Nextflow on AWS and the cloud compute behind it; designed the feature store and versioned reference sets  
+- Own the sequencing program: sample selection, the budget case, the sequencing and soil chemistry lab relationships, and the evidence behind market expansion  
+- Run a spec-driven, AI-assisted analysis workflow with pull requests, adversarial review and human merges; 40+ reports and dashboards published to the company report site  
 - Brief the leadership team and the board; convene carbon removal sessions at AGU  
 
 ### NSF Earth Science Postdoctoral Research Fellow — Lead Investigator  
@@ -58,9 +61,10 @@ Sample prioritization and simulation-based budget design, vendor management for 
 ## Capabilities
 
 ### Leadership and strategy
-- Research roadmaps, scoping documents and decision memos
+- Company and research strategy, roadmaps with product, scoping documents and decision memos
+- Hiring committees, job descriptions, onboarding and training
 - Model governance: validation, provenance and review gates
-- Vendor, contractor and partner management
+- Vendor, contractor and partner management; evidence for market expansion
 - Executive and board communication, scientific writing and reporting
 
 ### Data platform and MLOps
@@ -102,4 +106,4 @@ Selected peer-reviewed publications are on the
 
 ## Let's collaborate
 
-If you're working on **environmental genomics, data science, or climate-focused research**, I'm always glad to connect, for research collaborations, speaking and advising.
+If you're building in **climate tech, carbon removal, nature or forestry**, or working on environmental genomics and biodiversity research, I'm always glad to connect, for research collaborations, speaking and advising.

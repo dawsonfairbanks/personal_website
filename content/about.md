@@ -7,7 +7,7 @@ title: "About"
   <p class="profile-title">Senior Research Scientist<br>Funga PBC</p>
 </div>
 
-I'm a data science leader and microbial ecologist. I spent a decade studying how soil microbes drive carbon and water cycling in mountain watersheds, then joined Funga as its first data science hire to put that science to work in forest restoration. Today I set the research direction for biodiversity and genomics, run the data platform the company's models read from, and own the analyses that connect soil fungi to tree growth and carbon.
+I'm a data science leader and quantitative ecologist working in climate tech. I spent a decade studying how soil microbes drive carbon and water cycling in mountain watersheds, then joined Funga as its first data science hire to put that science to work in nature-based carbon removal. Today I help set strategy, lead growth and yield model development, run the data platform the company's models read from, and work with product on the roadmap that turns biodiversity data into what landowners and carbon buyers receive.
 
 The through-line is the question I started with: what can we actually infer from a soil sample, and how do we build systems where the answer holds up under review.
 
@@ -26,17 +26,18 @@ Minor in Chemistry
 - **Direction before tooling.** I write the scoping document first, agree on the decision it supports, and only then build. Most of the data science I've shipped started as a one-page memo.
 - **Platforms other people can run.** The pipelines, feature store and reference sets I designed are versioned, documented and handed off. I measure success by what runs without me.
 - **Science that survives scrutiny.** Validation, held-out tests, provenance and code review on every result, including the ones that come back null.
-- **Partners, vendors and community.** I manage sequencing and soil chemistry lab relationships and contractor scopes of work, and I've convened the AGU carbon removal community for a decade.
+- **People and hiring.** I sit on hiring committees, write the job descriptions, onboard and train the people who join, and review work so the standard is shared rather than mine alone.
+- **Partners, vendors and markets.** I manage sequencing and soil chemistry lab relationships and contractor scopes of work, build the evidence that opens new species, regions and buyer types, and have convened the AGU carbon removal community for a decade.
 
 ## Current position
 
 **Senior Research Scientist, Funga PBC** · 2024 – Present
 
-First data science hire. Built the genomics and biodiversity data platform from zero and lead the modeling that links soil microbiome composition to forest growth and carbon outcomes: growth and yield forecasting, trial and nursery effects, donor transfer efficacy and landowner reporting. Own the sequencing program and its budget. Brief the leadership team and the board.
+First data science hire, helping set strategy. Built the genomics and biodiversity data platform from zero, led its port to Nextflow on AWS, and lead growth and yield model development. Pod leader for bioprospecting: sample intake workflows across every project, end to end, through to a biodiversity landing page and reports for landowners and carbon buyers. Set research direction, review the team's work, and partner with product on the roadmap. Hiring committees and job descriptions. Own the sequencing program and its budget. Brief the leadership team and the board.
 
 ## Career highlights
 
-- **Built a data science function from zero** at a venture-backed climate company: the platform, the roadmap, the review practices and the science behind the product.
+- **Built a data science function from zero** at a venture-backed climate company: strategy, platform, roadmap, hiring, review practices and the science behind the product.
 - **NSF Earth Science Postdoctoral Fellow**, lead investigator integrating microbial trait data across national observatory networks.
 - **DOE Joint Genome Institute CSP New Investigator award**, lead PI on trait-based microbial ecology in the Jemez River Basin Critical Zone.
 - **AGU session convener and chair since 2016**: 13 oral and 8 poster sessions and 450+ abstracts on scaling microbes to biogeochemical cycles and carbon dioxide removal.
@@ -52,7 +53,7 @@ Outside of work I'm a curious wanderer and lifelong adventurer. I was born and r
 
 ## Open to collaboration
 
-I'm glad to connect on environmental genomics, reproducible data systems and climate science, for research collaborations, speaking, advising and mentoring early-career scientists.
+I'm glad to connect with people building in climate tech, carbon removal, nature and forestry, and with researchers in environmental genomics and biodiversity, for research collaborations, speaking, advising and mentoring early-career scientists.
 
 <p class="contact-row">
   <a href="mailto:dawson.fairbanks@gmail.com"><i class="fa-solid fa-envelope"></i>dawson.fairbanks[at]gmail.com</a>
